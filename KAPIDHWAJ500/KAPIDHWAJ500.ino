@@ -12,8 +12,8 @@
 #define Out4 15
 
 //----------------------------------------SSID and Password of your WiFi router
-const char *ssid = "BHUVAN";
-const char *password = "BHUVAN@12345";
+const char *ssid = "_____YOUR_SSID_____";
+const char *password = "____YOUR_PASSWORD____";
 //----------------------------------------
 
 int p = 0;
